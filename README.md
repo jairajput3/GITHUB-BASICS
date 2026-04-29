@@ -22,3 +22,6 @@ git status
 
 ### REMOTE --> MEANS file in github
 ### local --> file in laptop or pc
+
+### cd --> change directory 
+## git status -->

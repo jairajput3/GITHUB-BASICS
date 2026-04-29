@@ -25,3 +25,21 @@ git status
 
 ### cd --> change directory 
 ## git status -->
+## after modification add commit
+## 4 types of status
+UNTRACKED ---> new file that git does not yet track
+MODIFIED --> changed
+STAGED --> file is ready to be commited
+UNMODIFIED --> unchanged
+
+### ADD and COMMIT
+
+ADD --> adds new or changed file in your working directory to the git staging area
+git add file name
+COMMIT -->IT IS THE RECORD OF CHANGE
+git commit -m"some message"
+
+(git add .) for lots of file
+
+### PUSH --> upload local repo content to remote repo
+git push origin main

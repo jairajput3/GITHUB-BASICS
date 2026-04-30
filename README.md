@@ -41,6 +41,7 @@ COMMIT -->IT IS THE RECORD OF CHANGE
 git commit -m"some message"
 if u forget to close it :1q!
 ..
+..
 (git add .) for lots of file
 
 ### PUSH --> upload local repo content to remote repo
